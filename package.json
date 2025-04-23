@@ -1,6 +1,6 @@
 {
   "name": "node-localstorage-graceful",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "main": "./LocalStorage",
   "description": "A drop-in substitute for the browser native localStorage API that runs on node.js.",
   "keywords": [
