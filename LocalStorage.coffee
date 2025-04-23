@@ -1,5 +1,5 @@
 path = require('path')
-fs = require('fs')
+fs = require('fs-extra')
 events = require('events')
 writeSync = require('write-file-atomic').sync
 
